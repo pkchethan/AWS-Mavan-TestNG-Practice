@@ -10,7 +10,7 @@ pipeline{
 	
 	environment{
 		VERSION='0.5.2'
-		REL_VER ='RES.4'
+		REL_VER ='LINUX_GIT_TEST_1'
 	}
 	
 	stages{
