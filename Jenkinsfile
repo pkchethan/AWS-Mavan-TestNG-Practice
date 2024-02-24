@@ -35,7 +35,7 @@ pipeline{
 	stage('test'){
 			steps{
 				sh ''' 
-					echo "This is TEST with version as ${VERSION} and release as ${REL_VER}"
+					echo "This is TEST with version as ${VERSION} and release as ${REL_VER} updated"
 				'''
 			}
 					}					
