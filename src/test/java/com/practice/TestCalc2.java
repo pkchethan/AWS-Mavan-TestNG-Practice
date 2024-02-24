@@ -12,7 +12,7 @@ public class TestCalc2 {
 		int a = 50;
 		int b = 50;
 		int actSum = a + b;
-		int expSum = 40;
+		int expSum = 100;
 		assertEquals(actSum, expSum);
 	}
 
